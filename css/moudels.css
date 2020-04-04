@@ -4,6 +4,7 @@
         width: 960px;
         height: 100px;
         line-height: 100px;
+        border-bottom: 1px solid green;
     
 
     }
@@ -13,18 +14,21 @@
     #b{
         width: 200px;
         height: 600px;
-        border-right: 10px solid green;
+        /* border-right: 10px solid green; */
         /* display: inline-block; */
         line-height: 600px;
+        border-right: 1px solid green;
+        background-color: greenyellow;
     }
     #cd{
         width: 380px;
         height:200px;
-        border-bottom:  10px solid green;
+        /* border-bottom:  10px solid green; */
         line-height: 200px;
         /* float: left ; */
-        
+        border-left: 1px solid green;
         display: inline-block;
+        background-color: indianred;
         /* float: right; 
          */
         
@@ -42,8 +46,9 @@
         height:250px;
             float: left;
             line-height: 250px;
+            border-right: 1px solid green;
 
-            border-right:  10px solid green;
+            /* border-right:  10px solid green; */
 
         }
         .f{
@@ -51,18 +56,21 @@
         height:250px;
             float: right;
             line-height: 250px;
-            border-left:  1px solid green;
+            /* border-left:  1px solid green; */
+            border-right: 1px solid green;
+            border-bottom: 1px solid green;
         }
         .ef{
             /*             
                         border-bottom:  10px solid green;
                         line-height: 250px; */
                         /* display: inline-block; */
-                        background-color: grey;
+                        background-color: firebrick;
                         /* border: 10px solid green; */
-                        border-top: 10px solid green ;
+                        /* border-top: 10px solid green ; */
                         /* float: right; */
                         /* margin-top: -400px; */
+                        
             
                         
             
@@ -72,16 +80,19 @@
                         #desk2{
                              float: right; 
                         margin-top: -400px;
+                        
                            
                         }
                         #i{
                             background-color: grey;
                             height: 150px;
                             line-height: 150px;
-                            border-top: 10px solid green ;
+                            /* border-top: 10px solid green ; */
                             width: 760px;
                             float: right;
                             margin-top: -200px;
+                            border-top: 1px solid green;
+                            background-color: lightcoral;
                         }
 
 }

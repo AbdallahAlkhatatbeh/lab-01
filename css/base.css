@@ -5,7 +5,7 @@
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    border: 10px solid green;
+    border: 1px solid green;
 }
 
             @media only screen and (min-width: 768px) {
@@ -23,14 +23,14 @@
                 #b{
                     width: 200px;
                     height: 600px;
-                    border-right: 10px solid green;
+                    /* border-right: 10px solid green; */
                     /* display: inline-block; */
                     line-height: 600px;
                 }
                 #cd{
                     width: 380px;
                     height:200px;
-                    border-bottom:  10px solid green;
+                    /* border-bottom:  10px solid green; */
                     line-height: 200px;
                     /* float: left ; */
                     
@@ -53,7 +53,7 @@
                         float: left;
                         line-height: 250px;
 
-                        border-right:  10px solid green;
+                        /* border-right:  10px solid green; */
         
                     }
                     .f{
@@ -61,7 +61,7 @@
                     height:250px;
                         float: right;
                         line-height: 250px;
-                        border-left:  1px solid green;
+                        /* border-left:  1px solid green; */
                     }
                     .ef{
                         /*             
@@ -70,7 +70,7 @@
                                     /* display: inline-block; */
                                     background-color: grey;
                                     /* border: 10px solid green; */
-                                    border-top: 10px solid green ;
+                                    /* border-top: 10px solid green ; */
                                     /* float: right; */
                                     /* margin-top: -400px; */
                         
@@ -88,7 +88,7 @@
                                         background-color: grey;
                                         height: 150px;
                                         line-height: 150px;
-                                        border-top: 10px solid green ;
+                                        /* border-top: 10px solid green ; */
                                         width: 760px;
                                         float: right;
                                         margin-top: -200px;

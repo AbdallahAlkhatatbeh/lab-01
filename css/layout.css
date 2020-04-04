@@ -1,8 +1,10 @@
 #a{
     width: 480px;
     height: 75px;
-    border-bottom:  10px solid green;
+    /* border-bottom:  10px solid green; */
     line-height: 75px;
+    border-bottom: 1px solid green;
+    background-color: fuchsia;
     
     
     }
@@ -10,17 +12,22 @@
     #b{
         width: 480px;
         height: 150px;
-        border-bottom:  10px solid green;
+        /* border-bottom:  10px solid green; */
         line-height: 150px;
-    
+        border-bottom: 1px solid green;
+        background-color: gold;
+
         
         
         }
         #cd{
             width: 480px;
             height:125px;
-            border-bottom:  10px solid green;
+            /* border-bottom:  10px solid green; */
             line-height: 125px;
+            border-bottom: 1px solid green;
+            background-color: greenyellow;
+
             
             
             }
@@ -31,7 +38,10 @@
                 display: inline-block;
                 background-color: grey;
                 /* border: 10px solid green; */
-                border-top: 10px solid green ;
+                /* border-top: 10px solid green ; */
+                border-bottom: 1px solid green;
+                background-color: khaki;
+
     
                 
     
@@ -44,6 +54,7 @@
                     float: left;
                     line-height: 250px;
                     /* border-right:  10px solid green; */
+                    
     
                 }
                 .f{
@@ -57,5 +68,6 @@
                     background-color: grey;
                     height: 80px;
                     line-height: 80px;
-                    border-top: 10px solid green ;
+                    /* border-top: 10px solid green ; */
+                    background-color: lawngreen;
                 }
